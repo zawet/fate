@@ -1,16 +1,16 @@
 # fate
 
-## Project setup
+## 项目克隆后初始安装
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 项目以开发者模式运行（演示）
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 项目打包
 ```
 npm run build
 ```
